@@ -42,6 +42,10 @@ body {
     color: white;
 }
 
+#contact-form input[type="button"]:hover {
+    background-color: pink;
+}
+
 #address-block {
     background-color: red;
     padding: 80px;
